@@ -66,16 +66,16 @@ The following functions need to be implemented:
 
 <p align="center">
   <a style="text-decoration:none" area-label="home page map">
-   <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/d7047433-b8d8-4b76-a5f1-1bf3f4659652" width="250" height="450" />
+   <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/d7047433-b8d8-4b76-a5f1-1bf3f4659652" width="250" height="460" />
   </a>
   <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/e003cacd-0ace-4426-8082-5f3abebc7c45" width="250" height="450" />
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/e003cacd-0ace-4426-8082-5f3abebc7c45" width="250" height="460" />
   </a>
      <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/815371f1-747d-4dba-a5f6-94dc1235de35" width="250" height="450" />
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/815371f1-747d-4dba-a5f6-94dc1235de35" width="250" height="460" />
   </a>
      <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/0ae79ad5-1c47-49f0-b0f7-72d81cb49dfb" width="250" height="450" />
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/0ae79ad5-1c47-49f0-b0f7-72d81cb49dfb" width="250" height="460" />
   </a>
 </p>
 
