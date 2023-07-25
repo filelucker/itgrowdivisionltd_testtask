@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itgrowdivisionltd_testtask/itgrowdivisionltd_testtask.iml" filepath="$PROJECT_DIR$/itgrowdivisionltd_testtask/itgrowdivisionltd_testtask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itgrowdivisionltd_testtask/android/itgrowdivisionltd_testtask_android.iml" filepath="$PROJECT_DIR$/itgrowdivisionltd_testtask/android/itgrowdivisionltd_testtask_android.iml" />
+    </modules>
+  </component>
+</project>
