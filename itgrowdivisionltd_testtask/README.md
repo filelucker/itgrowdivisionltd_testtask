@@ -1,6 +1,6 @@
-#Test task "Mobile Android Application Developer"
+# Test task "Mobile Android Application Developer"
 
-##Programming language requirements
+## Programming language requirements
 
 The application must be implemented using one of the three proposed languages: Java, Kotlin, Flutter. It
 is allowed to use third-party libraries and any publicly available APIs.
