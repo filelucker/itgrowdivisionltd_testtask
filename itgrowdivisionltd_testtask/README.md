@@ -1,6 +1,7 @@
 #Test task "Mobile Android Application Developer"
 
 ##Programming language requirements
+
 The application must be implemented using one of the three proposed languages: Java, Kotlin, Flutter. It
 is allowed to use third-party libraries and any publicly available APIs.
 Functional requirements
@@ -59,3 +60,23 @@ The following functions need to be implemented:
    completing the task, please indicate the resulting time. Do not be afraid of this criterion, even if the
    results differ significantly. Making a reasonable estimate of the time required for the task is a useful skill.
    It's not always possible to do it objectively, but it's worth trying.
+
+
+## Screenshots
+
+<p align="center">
+  <a style="text-decoration:none" area-label="home page map">
+   <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/d7047433-b8d8-4b76-a5f1-1bf3f4659652" width="250" height="450" />
+  </a>
+  <a style="text-decoration:none" area-label="neararby banks">
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/e003cacd-0ace-4426-8082-5f3abebc7c45" width="250" height="450" />
+  </a>
+     <a style="text-decoration:none" area-label="neararby banks">
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/815371f1-747d-4dba-a5f6-94dc1235de35" width="250" height="450" />
+  </a>
+     <a style="text-decoration:none" area-label="neararby banks">
+    <img src="https://github.com/filelucker/itgrowdivisionltd_testtask/assets/25184971/0ae79ad5-1c47-49f0-b0f7-72d81cb49dfb" width="250" height="450" />
+  </a>
+</p>
+
+   
